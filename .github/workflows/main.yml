@@ -1,36 +1,70 @@
-# This is a basic workflow to help you get started with Actions
+---
+title: "Revue de presse du 16 septembre 2022"
+authors:
+    - Geo_Rdp
+categories:
+    - revue de presse
+date: 2022-09-16 14:20
+description: "GeoRDP du 16 septembre 2022 : "
+image: "URL de l'image d'illustration de la RDP"
+license: default
+robots: index, follow
+tags:
+    - tag 1
+    - tag 2
+    - ...
+---
 
-name: CI
+# Revue de presse du 16 septembre 2022
 
-# Controls when the workflow will run
-on:
-  # Triggers the workflow on push or pull request events but only for the main branch
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+## Intro
 
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
+![icône news générique](https://cdn.geotribu.fr/img/internal/icons-rdp-news/news.png "icône news générique"){: .img-rdp-news-thumb }
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
-jobs:
-  # This workflow contains a single job called "build"
-  build: >
-    # The type of runner that the job will run on
-    runs-on: ubuntu-latest
+[Commenter cette revue de presse :fontawesome-solid-comments:](#__comments){: .md-button }
+{: align=middle }
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
-    steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
+----
 
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo Hello, world!
+## Vie du site
 
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+![logo geotribu orange](https://cdn.geotribu.fr/img/internal/charte/geotribu_logo_rectangle_384x80.png "logo geotribu orange"){: style="border: none; box-shadow: none;" }
+{: align=middle }
+
+----
+
+## Sorties de la semaine
+
+----
+
+## Logiciel
+
+----
+
+## Représentation Cartographique
+
+----
+
+## OpenStreetMap
+
+----
+
+## Google
+
+----
+
+## Open Data
+
+----
+
+## Geo-event
+
+----
+
+## Divers
+
+----
+
+## En bref
+
+- Annonces diverses
