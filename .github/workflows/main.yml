@@ -1,8 +1,4 @@
 
-
-NGROK_AUTH_TOKEN
----------------------------------
-
 name: CI
 
 on: [push, workflow_dispatch]
